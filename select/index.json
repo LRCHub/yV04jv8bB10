@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誰が為",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2025-12-03T14:08:20.735993Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰が為",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_誰が為_メガテラ・ゼロ.txt"
+    }
+  ]
+}
